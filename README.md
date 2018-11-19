@@ -1,0 +1,1 @@
+# gradle-secrets-provider-plugin
